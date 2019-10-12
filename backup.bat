@@ -1,1 +1,1 @@
-sqlcmd -S WIN-C8BK4SEVUJN -i backup_adventurework_db_script.sql
+sqlcmd -i backup_adventurework_db_script.sql
